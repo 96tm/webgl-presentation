@@ -1,2 +1,2 @@
-# 96tm-JSFE2021Q1
-Private repository for @96tm
+# webgl-presentation
+Presentation on WebGL for RSSchool
